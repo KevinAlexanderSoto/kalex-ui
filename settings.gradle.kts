@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "kalexUi"
 include(":app")
-include(":ui-components")
+include(":ui")
